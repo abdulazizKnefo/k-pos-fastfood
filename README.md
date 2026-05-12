@@ -21,7 +21,13 @@
 > [!TIP]
 > تظهر هنا واجهة المستخدم الاحترافية التي تم تصميمها لتناسب احتياجات المطاعم العصرية.
 
-![Main UI](assets/preview.png)
+![Main UI](assets/previewlogin.png)
+/
+![POS Dashboard](assets/previewReport.png)
+/
+![POS Dashboard](assets/previewAddPrdouct.png)
+/
+![POS Dashboard](assets/preview.png)
 
 ## 💻 كيف تبدأ؟
 ```bash
